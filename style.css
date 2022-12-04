@@ -1,0 +1,34 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/image1.jpg);
+  height: 700px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/image2.jpg);
+  height: 700px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./images/image3.jpg);
+  height: 700px;
+}
+.footer1 {
+  display: flex;
+  margin: 150px 50px 50px 150px;
+}
+.footer1 ul {
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+  align-items: center;
+}
+footer p {
+  font-weight: bold;
+}
+footer span {
+  flex-grow: 1;
+}
